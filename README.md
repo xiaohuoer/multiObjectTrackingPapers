@@ -18,8 +18,19 @@
 
 
 </div>
+</br>
+
+<div align="left">
+    
+- [x] #739
+- [ ] https:xxx
+- [ ] Add delight to the experience when all tasks are complete :tada:
+    
+</div>
+</br>
 
 <div align="center"><img src="assets/demo.jpg" ></div>
+
 </br>
 
 ## Paper (CVPR2022)
