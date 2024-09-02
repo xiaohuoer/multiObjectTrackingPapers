@@ -4,19 +4,34 @@
 
 <div align="center">
     
-## 2017 _ deep_sort
+## 2017 deep_sort
 
 
  - [https://github.com/nwojke/deep_sort](https://github.com/nwojke/deep_sort)
  - [https://arxiv.org/abs/1703.07402](https://arxiv.org/abs/1703.07402)
 
-##  2019 _ Towards Real-Time Multi-Object Tracking
+##  2019 Towards Real-Time Multi-Object Tracking
 
  - [https://github.com/Zhongdao/Towards-Realtime-MOT](https://github.com/Zhongdao/Towards-Realtime-MOT)
  - [https://arxiv.org/pdf/1909.12605v1](https://arxiv.org/pdf/1909.12605v1)
 
+##  2020 CenterTrack : Tracking Objects as Points
+
+ - [https://github.com/xingyizhou/CenterTrack](https://github.com/xingyizhou/CenterTrack)
+ - [https://arxiv.org/pdf/2004.01177](https://arxiv.org/pdf/2004.01177)
+
+## 2021 Transformer-based : TransTrack: Multiple Object Tracking with Transformer
+
+ - [https://github.com/PeizeSun/TransTrack](https://github.com/PeizeSun/TransTrack)
+ - [https://arxiv.org/pdf/2012.15460](https://arxiv.org/pdf/2012.15460)
+
+## 2021 _ FairMOT
+
+ - [https://github.com/ifzhang/FairMOT](https://github.com/ifzhang/FairMOT)
+ - [https://arxiv.org/pdf/2004.01888](https://arxiv.org/pdf/2004.01888)
 
 
+ 
 </div>
 </br>
 
