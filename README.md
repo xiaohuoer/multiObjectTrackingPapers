@@ -1,8 +1,23 @@
 # DanceTrack
 
-DanceTrack is a benchmark for tracking multiple objects in uniform appearance and diverse motion.
+多目标跟踪论文算法整理.
 
-DanceTrack provides box and identity annotations. It contains 100 videos, 40 for training(annotations public), 25 for validation(annotations public) and 35 for testing(annotations unpublic). For evaluating on test set, please see [CodaLab](https://codalab.lisn.upsaclay.fr/competitions/5830)([Old CodaLab](https://competitions.codalab.org/competitions/35786)). We also have a [Project Page](https://dancetrack.github.io/) for exhibition. 
+<div align="center">
+    
+## 2017 _ deep_sort
+
+
+ - [https://github.com/nwojke/deep_sort](https://github.com/nwojke/deep_sort)
+ - [https://arxiv.org/abs/1703.07402](https://arxiv.org/abs/1703.07402)
+
+##  2019 _ Towards Real-Time Multi-Object Tracking
+
+ - [https://github.com/Zhongdao/Towards-Realtime-MOT](https://github.com/Zhongdao/Towards-Realtime-MOT)
+ - [https://arxiv.org/pdf/1909.12605v1](https://arxiv.org/pdf/1909.12605v1)
+
+
+
+</div>
 
 <div align="center"><img src="assets/demo.jpg" ></div>
 </br>
