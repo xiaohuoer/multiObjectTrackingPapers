@@ -14,44 +14,16 @@
 | 2023 | [OC-SORT](https://arxiv.org/abs/2203.14360) | ![](assets/teaser.png) | Observation-Centric SORT: Rethinking SORT for Robust Multi-Object Tracking| [[Github](https://github.com/noahcao/OC_SORT)]|
 | 2023 | [StrongSORT](https://arxiv.org/abs/2202.13514) | ![](assets/MOTA-IDF1-HOTA.png) | StrongSORT: Make DeepSORT Great Again | [[Github](https://github.com/dyhBUPT/StrongSORT)]|
 | 2022 | [MOTR](https://arxiv.org/abs/2105.03247) | ![](assets/motr.png) | MOTR: End-to-End Multiple-Object Tracking with TRansformer | [[Github](https://github.com/megvii-research/MOTR)]|
-| 2017 | [deep_sort](https://arxiv.org/abs/1703.07402) | | StrongSORT: Make DeepSORT Great Again | [[Github](https://github.com/nwojke/deep_sort)]|
+| 2017 | [deep_sort](https://arxiv.org/abs/1703.07402) | | Simple Online and Realtime Tracking with a Deep Association Metric (Deep SORT) | [[Github](https://github.com/nwojke/deep_sort)]|
 | 2023 | [StrongSORT](https://arxiv.org/abs/2202.13514) | assets/MOTA-IDF1-HOTA.png) | StrongSORT: Make DeepSORT Great Again | [[Github](https://github.com/dyhBUPT/StrongSORT)]|
-| 2023 | [StrongSORT](https://arxiv.org/abs/2202.13514) |assets/MOTA-IDF1-HOTA.png) | StrongSORT: Make DeepSORT Great Again | [[Github](https://github.com/dyhBUPT/StrongSORT)]|
-| 2023 | [StrongSORT](https://arxiv.org/abs/2202.13514) | assets/MOTA-IDF1-HOTA.png) | StrongSORT: Make DeepSORT Great Again | [[Github](https://github.com/dyhBUPT/StrongSORT)]|
-| 2023 | [StrongSORT](https://arxiv.org/abs/2202.13514) | assets/MOTA-IDF1-HOTA.png) | StrongSORT: Make DeepSORT Great Again | [[Github](https://github.com/dyhBUPT/StrongSORT)]|
-| 2023 | [StrongSORT](https://arxiv.org/abs/2202.13514) | assets/MOTA-IDF1-HOTA.png) | StrongSORT: Make DeepSORT Great Again | [[Github](https://github.com/dyhBUPT/StrongSORT)]|
-| 2023 | [StrongSORT](https://arxiv.org/abs/2202.13514) |assets/MOTA-IDF1-HOTA.png) | StrongSORT: Make DeepSORT Great Again | [[Github](https://github.com/dyhBUPT/StrongSORT)]|
-| 2023 | [StrongSORT](https://arxiv.org/abs/2202.13514) | assets/MOTA-IDF1-HOTA.png) | StrongSORT: Make DeepSORT Great Again | [[Github](https://github.com/dyhBUPT/StrongSORT)]|
+| 2019 | [Real-Time Multi-Object Tracking]([https://arxiv.org/abs/2202.13514](https://arxiv.org/pdf/1909.12605v1)) |assets/MOTA-IDF1-HOTA.png) | Towards Real-Time Multi-Object Tracking | [[Github](https://github.com/Zhongdao/Towards-Realtime-MOT)]|
+| 2020 | [CenterTrack](https://arxiv.org/pdf/2004.01177) | -| CenterTrack : Tracking Objects as Points | [[Github](https://github.com/xingyizhou/CenterTrack)]|
+| 2021 | [TransTrack](https://arxiv.org/pdf/2012.15460) | - | Transformer-based : TransTrack: Multiple Object Tracking with Transformer | [[Github](https://github.com/PeizeSun/TransTrack)]|
+| 2021 | [FairMOT](https://arxiv.org/pdf/2004.01888) |-  | FairMOT: On the Fairness of Detection and Re-Identification in Multiple Object Tracking | [[Github](https://github.com/ifzhang/FairMOT)]|
+| 2022 | [Deep OC-SORT](https://arxiv.org/pdf/2302.11813) | - | Deep OC-SORT: Multi-Pedestrian Tracking by Adaptive Re-Identification | [[Github](https://github.com/GerardMaggiolino/Deep-OC-SORT/)]|
+| 2023 | [StrongSORT](https://arxiv.org/abs/2202.13514) | - | StrongSORT: Make DeepSORT Great Again | [[Github](https://github.com/dyhBUPT/StrongSORT)]|
 
     
-## 2017 deep_sort
-
-
- - [https://github.com/nwojke/deep_sort](https://github.com/nwojke/deep_sort)
- - [https://arxiv.org/abs/1703.07402](https://arxiv.org/abs/1703.07402)
-
-##  2019 Towards Real-Time Multi-Object Tracking
-
- - [https://github.com/Zhongdao/Towards-Realtime-MOT](https://github.com/Zhongdao/Towards-Realtime-MOT)
- - [https://arxiv.org/pdf/1909.12605v1](https://arxiv.org/pdf/1909.12605v1)
-
-##  2020 CenterTrack : Tracking Objects as Points
-
- - [https://github.com/xingyizhou/CenterTrack](https://github.com/xingyizhou/CenterTrack)
- - [https://arxiv.org/pdf/2004.01177](https://arxiv.org/pdf/2004.01177)
-
-## 2021 Transformer-based : TransTrack: Multiple Object Tracking with Transformer
-
- - [https://github.com/PeizeSun/TransTrack](https://github.com/PeizeSun/TransTrack)
- - [https://arxiv.org/pdf/2012.15460](https://arxiv.org/pdf/2012.15460)
-
-## 2021 _ FairMOT
-
- - [https://github.com/ifzhang/FairMOT](https://github.com/ifzhang/FairMOT)
- - [https://arxiv.org/pdf/2004.01888](https://arxiv.org/pdf/2004.01888)
-
-
- 
 </div>
 </br>
 
@@ -77,19 +49,9 @@
 - (04/2022) We are organizing [Multiple Object Tracking and Segmentation in Complex Environments Workshop](https://motcomplex.github.io/), ECCV 2022. 
 
 
-## Paper List
-
-| Title | Intro | Description | Links |
-|:----:|:----:|:----:|:----:|
-| [SUSHI](https://arxiv.org/abs/2212.03038) | ![](https://github.com/dvl-tum/SUSHI/raw/main/assets/teaser.png) | Unifying Short and Long-Term Tracking with Graph Hierarchies | [[Github](https://github.com/dvl-tum/SUSHI)]|
-| [MOTRv2](https://arxiv.org/abs/2211.09791) | ![](https://raw.githubusercontent.com/zyayoung/oss/main/motrv2_main.jpg) | MOTRv2: Bootstrapping End-to-End Multi-Object Tracking by Pretrained Object Detectors | [[Github](https://github.com/megvii-research/MOTRv2)]|
-| [MOT_FCG](https://arxiv.org/abs/2210.03355) | Multiple Object Tracking from appearance by hierarchically clustering tracklets | Multiple Object Tracking from appearance by hierarchically clustering tracklets | [[Github](https://github.com/NII-Satoh-Lab/MOT_FCG)]|
-| [OC-SORT](https://arxiv.org/abs/2203.14360) | ![](https://github.com/noahcao/OC_SORT/raw/master/assets/teaser.png) | Observation-Centric SORT: Rethinking SORT for Robust Multi-Object Tracking| [[Github](https://github.com/noahcao/OC_SORT)]|
-| [StrongSORT](https://arxiv.org/abs/2202.13514) | ![](https://github.com/dyhBUPT/StrongSORT/raw/master/assets/MOTA-IDF1-HOTA.png) | StrongSORT: Make DeepSORT Great Again | [[Github](https://github.com/dyhBUPT/StrongSORT)]|
-| [MOTR](https://arxiv.org/abs/2105.03247) | ![](https://github.com/megvii-research/MOTR/blob/main/figs/motr.png) | MOTR: End-to-End Multiple-Object Tracking with TRansformer | [[Github](https://github.com/megvii-research/MOTR)]|
 
 
-## Dataset
+## DanceTrack Dataset
 Download the dataset from [Google Drive](https://drive.google.com/drive/folders/1ASZCFpPEfSOJRktR8qQ_ZoT9nZR0hOea?usp=sharing) or [Baidu Drive](https://pan.baidu.com/s/19O3IvYNzzrcLqlODHKYUwA) (code:awew).
 
 Organize as follows:
