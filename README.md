@@ -4,6 +4,26 @@
 
 <div align="center">
     
+## Paper List
+
+| Year | Title | Intro | Description  | Code
+|:----:|:----:|:----:|:----:|:----:|
+| 2023 | [SUSHI](https://arxiv.org/abs/2212.03038) | ![](assets/teaser.png) | Unifying Short and Long-Term Tracking with Graph Hierarchies | [[Github](https://github.com/dvl-tum/SUSHI)]|
+| 2023 | [MOTRv2](https://arxiv.org/abs/2211.09791) | ![](assets/motrv2_main.jpg) | MOTRv2: Bootstrapping End-to-End Multi-Object Tracking by Pretrained Object Detectors | [[Github](https://github.com/megvii-research/MOTRv2)]|
+| 2022 | [MOT_FCG](https://arxiv.org/abs/2210.03355) | Multiple Object Tracking from appearance by hierarchically clustering tracklets | Multiple Object Tracking from appearance by hierarchically clustering tracklets | [[Github](https://github.com/NII-Satoh-Lab/MOT_FCG)]|
+| 2023 | [OC-SORT](https://arxiv.org/abs/2203.14360) | ![](assets/teaser.png) | Observation-Centric SORT: Rethinking SORT for Robust Multi-Object Tracking| [[Github](https://github.com/noahcao/OC_SORT)]|
+| 2023 | [StrongSORT](https://arxiv.org/abs/2202.13514) | ![](assets/MOTA-IDF1-HOTA.png) | StrongSORT: Make DeepSORT Great Again | [[Github](https://github.com/dyhBUPT/StrongSORT)]|
+| 2022 | [MOTR](https://arxiv.org/abs/2105.03247) | ![](assets/motr.png) | MOTR: End-to-End Multiple-Object Tracking with TRansformer | [[Github](https://github.com/megvii-research/MOTR)]|
+| 2017 | [deep_sort](https://arxiv.org/abs/1703.07402) | | StrongSORT: Make DeepSORT Great Again | [[Github](https://github.com/nwojke/deep_sort)]|
+| 2023 | [StrongSORT](https://arxiv.org/abs/2202.13514) | assets/MOTA-IDF1-HOTA.png) | StrongSORT: Make DeepSORT Great Again | [[Github](https://github.com/dyhBUPT/StrongSORT)]|
+| 2023 | [StrongSORT](https://arxiv.org/abs/2202.13514) |assets/MOTA-IDF1-HOTA.png) | StrongSORT: Make DeepSORT Great Again | [[Github](https://github.com/dyhBUPT/StrongSORT)]|
+| 2023 | [StrongSORT](https://arxiv.org/abs/2202.13514) | assets/MOTA-IDF1-HOTA.png) | StrongSORT: Make DeepSORT Great Again | [[Github](https://github.com/dyhBUPT/StrongSORT)]|
+| 2023 | [StrongSORT](https://arxiv.org/abs/2202.13514) | assets/MOTA-IDF1-HOTA.png) | StrongSORT: Make DeepSORT Great Again | [[Github](https://github.com/dyhBUPT/StrongSORT)]|
+| 2023 | [StrongSORT](https://arxiv.org/abs/2202.13514) | assets/MOTA-IDF1-HOTA.png) | StrongSORT: Make DeepSORT Great Again | [[Github](https://github.com/dyhBUPT/StrongSORT)]|
+| 2023 | [StrongSORT](https://arxiv.org/abs/2202.13514) |assets/MOTA-IDF1-HOTA.png) | StrongSORT: Make DeepSORT Great Again | [[Github](https://github.com/dyhBUPT/StrongSORT)]|
+| 2023 | [StrongSORT](https://arxiv.org/abs/2202.13514) | assets/MOTA-IDF1-HOTA.png) | StrongSORT: Make DeepSORT Great Again | [[Github](https://github.com/dyhBUPT/StrongSORT)]|
+
+    
 ## 2017 deep_sort
 
 
