@@ -61,6 +61,9 @@
 ## Acknowledgement  
  
 - The readme here mainly refers to [DanceTrack - gitHub 主页](https://github.com/DanceTrack/DanceTrack)
+- The other two readme files are referenced from [awesome-multiple-object-tracking](https://github.com/luanshiyinyang/awesome-multiple-object-tracking/tree/master)
+- [open-mmlab/mmtracking](https://github.com/open-mmlab/mmtracking/tree/master)
+- [PaddlePaddle/PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection)
 - Thank you to all the visitors, thank you for lighting up for me
 - Good luck to everyone
 
